@@ -24,7 +24,6 @@ SetupWebPage::AddModule(
 		// Components
 		//
 		'datamodel' => array(
-			'model.sample-portal-new-brick.php'
 		),
 		'webservice' => array(
 			
